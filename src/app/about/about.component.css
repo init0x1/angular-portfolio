@@ -1,0 +1,13 @@
+.about-section {
+  padding: 50px;
+  background: #f8f9fa;
+}
+
+.about-section h2 {
+  font-size: 2rem;
+}
+
+.about-section p {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
